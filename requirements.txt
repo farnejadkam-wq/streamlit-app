@@ -7,4 +7,4 @@ statsmodels
 python-dateutil
 scikit-learn
 xgboost
-
+psutil
